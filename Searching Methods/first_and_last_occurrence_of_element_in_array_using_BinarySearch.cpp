@@ -96,3 +96,5 @@ int main()
     cout << "last Occurrence of " << key << " is index " << last << endl;
     return 0;
 }
+
+// NOTE: To find Total no. of occurrence = (last - first)+1;
